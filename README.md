@@ -3,4 +3,4 @@
 To get started:
 
 - Run `npm i` to install dependencies
-- Run `npm start` and open https://rad-nougat-669ab4.netlify.app/ to see the app
+- Run `npm start` and open https://fastidious-beijinho-c2f2d5.netlify.app/ to see the app
